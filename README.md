@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shravana  
+# 👋 Hi, I'm Shravana Poonja
 
 🎓 MCA Student | Aspiring DevOps Engineer | Passionate about Cloud & AI  
 🌱 Currently learning: Python, C, AWS and DevOps tool   
